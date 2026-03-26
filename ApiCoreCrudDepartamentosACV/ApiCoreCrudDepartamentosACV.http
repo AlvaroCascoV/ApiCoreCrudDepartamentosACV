@@ -1,0 +1,6 @@
+@ApiCoreCrudDepartamentosACV_HostAddress = http://localhost:5001
+
+GET {{ApiCoreCrudDepartamentosACV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
